@@ -39,7 +39,7 @@ This repository draws from **both textbook material and video lectures** to supp
 
 ### Video Lectures (Playlist)
 - _Probabilistic Robotics Video Lecture Series_ a curated YouTube playlist that explains key concepts with visuals and examples:  
-    ▶️ [https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN)_
+- [SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN)
 
 These videos complement the text by offering lectures on estimation, filters, and probabilistic approaches in an intuitive format.
 
