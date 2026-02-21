@@ -46,7 +46,7 @@ $$H_{p(x)} = -\int p(x) \log_2 p(x), dx$$
 
 ---
 ### Two Probabilistic Laws
-![Figure 2.1](Probablistic%20Robotics/Attachments/pic1.png)
+![Figure 2.1](../Attachments/pic1.png)
 #### State Transition (Motion Model)
 $$p(x_t \mid x_{t-1},, u_t)$$
 - How the world evolves under control $u_t$
@@ -166,7 +166,7 @@ Exact Bayes filtering is generally **intractable**. Practical implementations ap
 ---
 ## DBN Graphical Model
 
-![Figure 2.2](Probablistic%20Robotics/Attachments/pic2.png)
+![Figure 2.2](../Attachments/pic2.png)
 
 - $x_t$ depends on $x_{t-1}$ and $u_t$ → **motion model**
 - $z_t$ depends only on $x_t$ → **measurement model**
